@@ -2,4 +2,4 @@
 
 Hey guys
 
-Beginner here :)
+Beginner here :) first time coding here
